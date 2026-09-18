@@ -8,7 +8,8 @@ The notebooks include examples related to solar irradiance modeling, decompositi
 The main goal of this repository is to provide students, researchers, and professionals with practical examples of how Python can be applied to PV system analysis, modeling, and simulation.
  
 Some guidelines:
-* The solar_irradiance_dtu_2019.csv document is used in the Data Quality Control Example.ipynb Jupyter notebook for apply the techniques for checking the quality of in-field measurements of solarimetric data (And it is not limited to it, you could apply for any operational PV data).
+* The solar_irradiance_dtu_2019.csv document is used in the Data Quality Control Example.ipynb Jupyter notebook for apply the techniques for checking the quality of in-field measurements of solarimetric data (And it is not limited to it, you could apply for any operational PV data). For more information about this application, feel free to explore: https://assessingsolar.org/notebooks/quality_asessment.html
+* 
 * The mini course video is available at my YouTube channel: https://www.youtube.com/@engjoaofred
 
 <img width="803" height="250" alt="image" src="https://github.com/user-attachments/assets/58de12af-fc1b-4e49-ad81-de61e7fec1e8" />
