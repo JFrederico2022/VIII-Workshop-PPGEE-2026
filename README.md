@@ -10,3 +10,5 @@ The main goal of this repository is to provide students, researchers, and profes
 Some guidelines:
 * The solar_irradiance_dtu_2019.csv document is used in the Data Quality Control Example.ipynb Jupyter notebook for apply the techniques for checking the quality of in-field measurements of solarimetric data (And it is not limited to it, you could apply for any operational PV data).
 * The mini course video is available at my YouTube channel: https://www.youtube.com/@engjoaofred
+
+<img width="805" height="250" alt="image" src="https://github.com/user-attachments/assets/54a8100c-3792-4b79-8745-f8b421c47fbb" />
